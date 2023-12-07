@@ -118,7 +118,12 @@
     .nav-bar {
         padding: 0;
     }
-
+    h1{
+        font-size: 1.5rem;
+    }
+    h5{
+        font-size: 1rem;
+    }
     .navbar-light .navbar-nav .nav-link  {
         margin-right: 0;
         padding: 10px 0;
